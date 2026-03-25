@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #FFE4E8;
+    background-color: #2196f3;
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -189,7 +189,7 @@ h1 {
 
 .yes-message {
     font-size: 1.4rem;
-    color: #e91e8c;
+    color: #2196f3;
     font-weight: 700;
     margin-top: 24px;
     animation: fadeIn 1s ease 0.5s both;
@@ -201,6 +201,6 @@ h1 {
 }
 
 .yes-container #cat-gif {
-    width: 260px;
-    height: 260px;
+    width: 320px;
+    height: 320px;
 }
